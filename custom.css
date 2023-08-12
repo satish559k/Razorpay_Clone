@@ -1,0 +1,44 @@
+
+
+.custom-hover-feature-image:hover{
+    
+   #features-wave{
+    z-index: 20;
+   }
+
+}
+
+.custom-hover-feature2-image:hover{
+    
+   #features2-wave{
+    z-index: 20;
+   }
+
+}
+
+.core-feature{
+   background-size: 100% 100%;
+   padding-top: 12rem;
+   padding-bottom: 12rem;
+}
+
+/* Join Razorpay animation*/
+.company-animation{
+
+   animation: company 3s linear infinite ;
+
+   
+}
+@keyframes company {
+
+   0%{
+      top:0%;
+   }
+   100%{
+      top: -50%;
+   }
+   
+   
+}
+
+
