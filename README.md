@@ -9,3 +9,4 @@ Steps to be followed before running this project:
 
 3] npx tailwindcss init -p
 
+4] Then in terminal run:- npm run start
